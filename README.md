@@ -41,7 +41,7 @@
 - [The Rust RFC Book](https://rust-lang.github.io/rfcs/introduction.html)
 - [Rust 宏小册](https://zjp-cn.github.io/tlborm/#rust-宏小册)
 
-
+- [Rust Cookbook 中文版](https://rustwiki.org/zh-CN/rust-cookbook/)
 
 # Tokio 运行时
 
