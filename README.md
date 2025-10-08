@@ -11,6 +11,7 @@
 - [100 Exercises To Learn Rust](https://rust-exercises.com/100-exercises/01_intro/00_welcome.html)
 
 - [Google 官方教程 Comprehensive Rust 🦀](https://google.github.io/comprehensive-rust/zh-CN/running-the-course.html)
+- [Learning Rust By Practice](https://github.com/sunface/rust-by-practice/blob/master/zh-CN/src/why-exercise.md)
 - [Tour of Rust](https://tourofrust.com/index.html)
 
 - [Rust语言圣经(Rust Course)](https://course.rs/about-book.html)
