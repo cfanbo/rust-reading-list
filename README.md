@@ -12,6 +12,7 @@
 
 - [Google 官方教程 Comprehensive Rust 🦀](https://google.github.io/comprehensive-rust/zh-CN/running-the-course.html)
 - [Learning Rust By Practice](https://github.com/sunface/rust-by-practice/blob/master/zh-CN/src/why-exercise.md)
+- [RUST 官方 Rustlings](https://rustlings.rust-lang.org/)
 - [Tour of Rust](https://tourofrust.com/index.html)
 
 - [Rust语言圣经(Rust Course)](https://course.rs/about-book.html)
