@@ -60,3 +60,11 @@
 
 - [Rust Language Cheat Sheet](https://cheats.rs/#data-layout)
 - [Rust container cheat sheet](https://docs.google.com/presentation/d/1q-c7UAyrUlM-eZyTo1pd8SZ0qwA_wYxmPZVOQkoDmH4/edit?slide=id.p#slide=id.p)
+
+
+
+# 社区
+
+- https://this-week-in-rust.org/
+- https://www.reddit.com/r/rust/
+- [Rust语言中文社区](https://rustcc.cn/)
