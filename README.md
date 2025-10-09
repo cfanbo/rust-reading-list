@@ -31,6 +31,9 @@
 
 - [Clippy Documentation](https://doc.rust-lang.org/clippy/)
 
+- [Debug and Profile in the TIKV](https://tikv.github.io/tikv-dev-guide/get-started/debug-and-profile.html?utm_source=chatgpt.com#debug-and-profile)
+
+
 ## 参考图书
 
 - [The Rust Standard Library](The Rust Standard Library)
