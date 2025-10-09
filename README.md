@@ -33,6 +33,8 @@
 
 - [Debug and Profile in the TIKV](https://tikv.github.io/tikv-dev-guide/get-started/debug-and-profile.html?utm_source=chatgpt.com#debug-and-profile)
 
+- [Generics and Compile-Time in Rust](https://www.pingcap.com/blog/generics-and-compile-time-in-rust/)
+
 
 ## 参考图书
 
