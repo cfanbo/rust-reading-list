@@ -35,6 +35,8 @@
 
 - [Generics and Compile-Time in Rust](https://www.pingcap.com/blog/generics-and-compile-time-in-rust/)
 
+- [Rust Design Patterns](https://rust-unofficial.github.io/patterns/idioms/index.html)
+
 
 ## 参考图书
 
