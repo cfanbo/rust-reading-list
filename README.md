@@ -23,7 +23,7 @@
 
 ## 进阶
 
-- **[Asynchronous Programming in Rust](Asynchronous Programming in Rust)**
+- **[Asynchronous Programming in Rust](https://rust-lang.github.io/async-book/)**
 
 - [The Rust Performance Book](https://nnethercote.github.io/perf-book/benchmarking.html)
 
@@ -38,7 +38,7 @@
 
 ## 参考图书
 
-- [The Rust Standard Library](The Rust Standard Library)
+- [The Rust Standard Library](https://doc.rust-lang.org/std/index.html)
 - [The Cargo Book](https://doc.rust-lang.org/cargo/index.html#the-cargo-book)
 - [The rustdoc book](https://doc.rust-lang.org/rustdoc/index.html)
 - [The rustc book](https://doc.rust-lang.org/rustc/index.html)
