@@ -25,7 +25,7 @@
 
 - **[Asynchronous Programming in Rust](https://rust-lang.github.io/async-book/)**
 
-- [The Rust Performance Book](https://nnethercote.github.io/perf-book/benchmarking.html)
+- [The Rust Performance Book](https://nnethercote.github.io/perf-book/introduction.html)
 
 - [加快 Rust 编译时间的技巧](https://corrode.dev/blog/tips-for-faster-rust-compile-times/)
 
