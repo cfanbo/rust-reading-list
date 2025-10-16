@@ -60,6 +60,7 @@
 - [Async: What is blocking?](https://ryhl.io/blog/async-what-is-blocking/)
 - [OS Thread Scheduling vs Tokio Runtime](https://www.reddit.com/r/learnrust/comments/15xcfdr/os_thread_scheduling_vs_tokio_runtime/)
 - **[Tokio 如何调度任务：惨痛的教训](https://rustmagazine.org/issue-4/how-tokio-schedule-tasks/)**
+- [异步初响：从 #[tokio::main] 感知调度脉搏](https://www.bilibili.com/video/BV197njzqEs6)
 
 
 
