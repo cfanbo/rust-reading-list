@@ -21,7 +21,7 @@
 
 - [Macros By Example](https://doc.rust-lang.org/reference/macros-by-example.html#macros-by-example)
 
-- [Code Like a Pro in Rust](https://github.com/cfanbo/rust-reading-list/blob/main/pdf/Code%20Like%20a%20Pro%20in%20Rust.pdf)
+- [Code Like a Pro in Rust.PDF](https://github.com/cfanbo/rust-reading-list/blob/main/pdf/Code%20Like%20a%20Pro%20in%20Rust.pdf)
 
 
 ## 进阶
