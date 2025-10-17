@@ -10,7 +10,7 @@
 - [Rust-By-Example 中文版](https://rustwiki.org/zh-CN/rust-by-example/)
 - [100 Exercises To Learn Rust](https://rust-exercises.com/100-exercises/01_intro/00_welcome.html)
 
-- [Google 官方教程 Comprehensive Rust 🦀](https://google.github.io/comprehensive-rust/zh-CN/running-the-course.html)
+- [Google 官方教程 Comprehensive Rust 🦀](https://google.github.io/comprehensive-rust/zh-CN/running-the-course.html)  [PDF](https://google.github.io/comprehensive-rust/comprehensive-rust.pdf)
 - [Learning Rust By Practice](https://github.com/sunface/rust-by-practice/blob/master/zh-CN/src/why-exercise.md)
 - [RUST 官方 Rustlings](https://rustlings.rust-lang.org/)
 - [Tour of Rust](https://tourofrust.com/index.html)
@@ -20,6 +20,9 @@
 - [Rust 秘典（死灵书）](https://nomicon.purewhite.io/)
 
 - [Macros By Example](https://doc.rust-lang.org/reference/macros-by-example.html#macros-by-example)
+
+- [Code Like a Pro in Rust](./pdf/Code Like a Pro in Rust.pdf)
+
 
 ## 进阶
 
