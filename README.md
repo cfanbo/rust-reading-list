@@ -47,6 +47,7 @@
 - [The Cargo Book](https://doc.rust-lang.org/cargo/index.html#the-cargo-book)
 - [The rustdoc book](https://doc.rust-lang.org/rustdoc/index.html)
 - [The rustc book](https://doc.rust-lang.org/rustc/index.html)
+- [The Rust Edition Guide](https://doc.rust-lang.org/nightly/edition-guide/introduction.html)
 - [The Rust Reference](https://doc.rust-lang.org/reference/introduction.html)
 - [The Embedded Rust Book](https://doc.rust-lang.org/stable/embedded-book/)
 - [The Rust RFC Book](https://rust-lang.github.io/rfcs/introduction.html)
