@@ -52,7 +52,7 @@
 - [The Embedded Rust Book](https://doc.rust-lang.org/stable/embedded-book/)
 - [The Rust RFC Book](https://rust-lang.github.io/rfcs/introduction.html)
 - [Rust 宏小册](https://zjp-cn.github.io/tlborm/#rust-宏小册)
-
+- [Rust Compiler Development Guide](https://rustc-dev-guide.rust-lang.org/)
 - [Rust Cookbook 中文版](https://rustwiki.org/zh-CN/rust-cookbook/)
 
 # Tokio 运行时
