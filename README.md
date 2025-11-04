@@ -42,7 +42,7 @@
 
 
 ## 参考图书
-
+- [The rustup book](https://rust-lang.github.io/rustup/index.html)
 - [The Rust Standard Library](https://doc.rust-lang.org/std/index.html)
 - [The Cargo Book](https://doc.rust-lang.org/cargo/index.html#the-cargo-book)
 - [The rustdoc book](https://doc.rust-lang.org/rustdoc/index.html)
